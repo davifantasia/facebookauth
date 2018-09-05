@@ -1,0 +1,18 @@
+.auth {
+  text-align: center;
+}
+
+.auth__button {
+  color: #fff;
+  background-color: #4c69ba;
+  display: inline-block;
+	border-radius: 3px;
+	padding: 7px 12px;
+	border: 1px solid #4c69ba;
+  font: 700 13px/18px Helvetica, arial;
+  cursor: pointer;
+}
+
+.auth__text {
+  margin: 0;
+}
